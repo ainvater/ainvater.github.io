@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ainvater.github.io/sitemap
+Sitemap: https://ainvater.github.io/app/sitemap
+Sitemap: https://ainvater.github.io/assets/sitemap
+Sitemap: https://ainvater.github.io/css/sitemap
+Sitemap: https://ainvater.github.io/includes/sitemap
+Sitemap: https://ainvater.github.io/item/sitemap
+Sitemap: https://ainvater.github.io/src/sitemap
